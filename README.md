@@ -1,2 +1,2 @@
 # test
-testing GitHub
+testing GitHub for coursera course
